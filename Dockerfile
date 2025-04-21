@@ -1,4 +1,4 @@
-FROM debian:bookworm-slim
+FROM node:19.0.0-bullseye
 
 WORKDIR /opt/app
 
