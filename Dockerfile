@@ -1,4 +1,4 @@
-FROM node:19.0.0-bullseye
+FROM node:20.13.1-bookworm-slim
 
 WORKDIR /opt/app
 
