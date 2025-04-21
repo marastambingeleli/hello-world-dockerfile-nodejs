@@ -1,4 +1,4 @@
-FROM node:lts-alpine
+FROM debian:bookworm-slim
 
 WORKDIR /opt/app
 
