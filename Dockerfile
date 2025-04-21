@@ -1,4 +1,4 @@
-FROM node:lts-alpine
+FROM buildpack-deps:bookworm
 
 WORKDIR /opt/app
 
